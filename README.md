@@ -34,9 +34,4 @@
 - 📝 &nbsp; Checkout my [Website](https://iamvignesh.dev/).
 
 
-<!-- 
-## GitHub Stats
-
-[![Vignesh's github stats](https://github-readme-stats.vercel.app/api?username=vignesh-karunakaran)](https://github.com/vignesh-karunakaran/vignesh-karunakaran) -->
-
 </samp>
