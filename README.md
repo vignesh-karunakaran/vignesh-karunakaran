@@ -11,8 +11,6 @@
 
 <p align="center">***</p>
 
-<p align="center">🌱 I'm Learning <strong>Redux</strong> and <strong>TypeScript</strong>.</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vignesh-karunakaran-4730039b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>&nbsp;
    <a href="https://twitter.com/Vk3y3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>
