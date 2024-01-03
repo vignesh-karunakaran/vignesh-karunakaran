@@ -28,7 +28,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://twitter.com/Vk3y3)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: official2vignesh@gmail.com
-- 📝 &nbsp; Checkout my [Website](https://iamvignesh.dev/).
+- 📝 &nbsp; Checkout my [Website](https://iamvignesh.dev/?from=github).
 
 
 </samp>
