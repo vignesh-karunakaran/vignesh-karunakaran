@@ -118,6 +118,16 @@
   </a>
 </p>
 
+## **GitHub Statistics**
+
+<a href="https://github.com/vignesh-karunakaran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-karunakaran&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/vignesh-karunakaran">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-karunakaran&show_icons=true&theme=dracula&line_height=27" alt="**Vignesg** github stats"/>
+</a>
+
 ## Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with React.js, Ember.js, Javascript.
