@@ -2,11 +2,11 @@
 <h1 align="center">Hello, folks! 👋</h1>
 
 <p align="center">
-  This is <b>Vignesh</b> here, I have been into Software Development <br>for 6+ years. You can see me either coding or watching Silicon Valley for the <b>n</b> th time. 
+  This is <b>Vignesh</b> here, I have been into Software Development <br>for 7+ years. You can see me either coding or watching Silicon Valley for the <b>n</b> th time. 
 </p>
 
 <p align="center">
-  I worked at <b>Zoho</b> as a <b>Front-end Developer</b> in <b>India</b> and  <br> I'm passionate about <b>ReactJS</b> and <b>JavaScript</b>
+  I am currently working in <b>Mphasis</b> and <b>Ex-Zoho</b> as a <b>Front-end Developer</b> and  <br> I'm passionate about <b>ReactJS</b> and <b>JavaScript</b>
 </p>
 
 <p align="center">
